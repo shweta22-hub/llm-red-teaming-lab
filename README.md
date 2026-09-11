@@ -65,7 +65,7 @@ llm-red-teaming-lab/
 
 ## 🚧 Project Status
 
-Currently under development.
+STATUS ACTIVE security_report.md
 
 The initial phase focuses on setting up PyRIT and developing controlled LLM security experiments.
 
@@ -89,3 +89,4 @@ Testing should only be performed against LLM systems that you own or have explic
 Shweta
 
 MCA (AI/ML) | Generative AI | LLM Security | AI Red Teaming
+Update README with first finding"
