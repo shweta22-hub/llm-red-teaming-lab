@@ -65,7 +65,7 @@ llm-red-teaming-lab/
 
 ## 🚧 Project Status
 
-STATUS ACTIVE security_report.md
+STATUS ACTIVE security_report.md.
 
 The initial phase focuses on setting up PyRIT and developing controlled LLM security experiments.
 
